@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/sprj/!svn/ver/75/src/math
+END
+Math.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/sprj/!svn/ver/70/src/math/Math.hpp
+END
+Vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/sprj/!svn/ver/75/src/math/Vector.cpp
+END
+Matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/sprj/!svn/ver/1/src/math/Matrix.cpp
+END
+Vector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/sprj/!svn/ver/75/src/math/Vector.hpp
+END
+Matrix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/sprj/!svn/ver/1/src/math/Matrix.hpp
+END
